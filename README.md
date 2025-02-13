@@ -8,9 +8,9 @@ You are a Data Analyst at Northwind Traders, an international gourmet food distr
 - ✅ Analyzing Sales Growth – Monitoring trends, tracking company progress, and forecasting demand.
 - ✅ Evaluating Customer Purchase Behavior – Targeting high-value customers with promotional incentives.
 
-
 Using PostgreSQL window functions, you will generate these essential insights, helping management drive better business decisions.
----
+
+
 
 ## Database Schema
 
@@ -18,4 +18,20 @@ To build efficient SQL queries, referencing the database schema is essential. Th
 
 📌 Below is a modified schema diagram highlighting the necessary tables for analysis:
 
-(If you're curious about the full schema, refer to the original Northwind schema.)
+(If you're curious about the full schema, refer to the original [Northwind_schema](ER.png).
+
+
+
+## Technologies Used
+
+    PostgreSQL – Querying and analyzing structured data
+    SQL Window Functions – Advanced analytics for ranking, cumulative sales, and trend tracking
+    Jupyter Notebook – Running queries and visualizing data
+    Python (psycopg2 & pandas) – Query execution and data manipulation
+
+Key SQL Techniques Used
+
+- 🟢 Window Functions (ROW_NUMBER(), RANK(), DENSE_RANK(), SUM() OVER(), AVG() OVER())
+- 🟢 Common Table Expressions (CTEs) (WITH category_sales AS (...))
+- 🟢 Aggregations & Joins (SUM(), COUNT(), JOIN)
+- 🟢 Date Functions (DATE_TRUNC(), EXTRACT())
