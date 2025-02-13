@@ -3,10 +3,11 @@
 
 You are a Data Analyst at Northwind Traders, an international gourmet food distributor. Management relies on data-driven insights to make strategic decisions across multiple areas of the business. This project focuses on:
 
-✅ Evaluating Employee Performance – Identifying key contributors to improve productivity.
-✅ Understanding Product & Category Sales – Optimizing inventory and marketing strategies.
-✅ Analyzing Sales Growth – Monitoring trends, tracking company progress, and forecasting demand.
-✅ Evaluating Customer Purchase Behavior – Targeting high-value customers with promotional incentives.
+- ✅ Evaluating Employee Performance – Identifying key contributors to improve productivity.
+- ✅ Understanding Product & Category Sales – Optimizing inventory and marketing strategies.
+- ✅ Analyzing Sales Growth – Monitoring trends, tracking company progress, and forecasting demand.
+- ✅ Evaluating Customer Purchase Behavior – Targeting high-value customers with promotional incentives.
+
 
 Using PostgreSQL window functions, you will generate these essential insights, helping management drive better business decisions.
 ---
